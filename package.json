@@ -26,10 +26,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OmarZubaidi/welcome"
+    "url": "git+https://github.com/OmarZubaidi/Welcome"
   },
   "author": "Omar Zubaidi",
-  "homepage": "https://OmarZubaidi.github.io/welcome",
+  "homepage": "https://OmarZubaidi.github.io/Welcome",
   "eslintConfig": {
     "extends": [
       "react-app",
