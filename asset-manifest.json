@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/welcome/static/css/main.84049101.css",
+    "main.js": "/welcome/static/js/main.b19204dc.js",
+    "static/media/JobColumn.png": "/welcome/static/media/JobColumn.adf0bb56fe226167b34a.png",
+    "index.html": "/welcome/index.html",
+    "main.84049101.css.map": "/welcome/static/css/main.84049101.css.map",
+    "main.b19204dc.js.map": "/welcome/static/js/main.b19204dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84049101.css",
+    "static/js/main.b19204dc.js"
+  ]
+}
