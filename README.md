@@ -1,4 +1,4 @@
-# Welcome
+# [Welcome](https://omarzubaidi.github.io/Welcome/)
 
 A cute little landing page for my GitHub pages. Built using React and Tailwind.
 
