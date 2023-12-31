@@ -5,6 +5,12 @@ const APPS = [
     image: require('./images/JobColumn.png'),
     link: 'https://OmarZubaidi.github.io/Job-COLumn',
   },
+  {
+    name: 'Wanderlust',
+    description: ' A travel planner app for the whole trip',
+    image: require('./images/Wanderlust.png'),
+    link: 'https://wanderlust-web.netlify.app/',
+  },
 ];
 
 const LINKS = [
